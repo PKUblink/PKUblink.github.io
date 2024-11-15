@@ -12,5 +12,6 @@ I'm a student from [School of Electronic Engineering and Computer Science](https
 My interest includes mathematical physics, combinatorics, number theory, philosophy and occult.
 
 **Quote**
-<p style="text-align: center;">The price of freedom is high, it always has been, and it's a price I'm willing to pay.
-And if I'm the only one, then so be it.  --Captain America</p>
+The price of freedom is high, it always has been, and it's a price I'm willing to pay.
+And if I'm the only one, then so be it.  
+<p style="text-align: right;">--Captain America</p>
