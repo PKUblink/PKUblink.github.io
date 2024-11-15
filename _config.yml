@@ -12,7 +12,7 @@ title                    : "WUhan Zhou's Homepage"
 title_separator          : "-"
 name                     : &name "Wuhan Zhou"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://pkublink.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pkublink.github.io"
 
@@ -64,11 +64,11 @@ author:
   tumblr           : # Username
   twitter          : "Blink4712Blink" # Username for X / Twitter
   vine             : # Username
-  weibo            : "https://weibo.com/u/7855153066" # Username
+  weibo            : "带鱼除法blink" # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "https://www.zhihu.com/people/blink-91-37" # Username
+  zhihu            : "BLINK" # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
