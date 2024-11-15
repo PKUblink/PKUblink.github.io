@@ -14,5 +14,6 @@ My interest includes mathematical physics, combinatorics, number theory, philoso
 **Quote**
 
 The price of freedom is high, it always has been, and it's a price I'm willing to pay.
+
 And if I'm the only one, then so be it.  
 <p style="text-align: right;">--Captain America</p>
