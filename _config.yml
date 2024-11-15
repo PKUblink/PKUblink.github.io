@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "batman.png"
   name             : "Wuhan Zhou"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "An ordinary math enthusiast"
   location         : "Beijing, China"
   employer         : "Peking University"
