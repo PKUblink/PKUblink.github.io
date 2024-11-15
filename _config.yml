@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "WUhan Zhou's Homepage"
+title                    : "Wuhan Zhou's Homepage"
 title_separator          : "-"
 name                     : &name "Wuhan Zhou"
 description              : &description "personal description"
