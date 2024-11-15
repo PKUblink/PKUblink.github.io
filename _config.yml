@@ -21,10 +21,10 @@ repository               : "pkublink.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "batman.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "An ordinary math enthusiast"
   location         : "Beijing, China"
   employer         : "Peking University"
   uri              : # URL
@@ -70,7 +70,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : "BLINK" # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
