@@ -1,0 +1,168 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, section, summary, time, mark, audio, video { margin: 0px; padding: 0px; border: 0px none; font: inherit;}
+body { line-height: 1; }
+
+.clearfix {  }
+.clearfix:before, .clearfix:after { display: table; line-height: 0; content: ""; }
+.clearfix:after { clear: both; }
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section { display: block; }
+audio:not([controls]) { display: none; }
+html { font-size: 100%; }
+a:focus { outline: thin dotted rgb(51, 51, 51); outline-offset: -2px; }
+a:hover, a:active { outline: 0px none; }
+img { height: auto; max-width: 100%; vertical-align: middle; border: 0px none; }
+button::-moz-focus-inner, input::-moz-focus-inner { padding: 0px; border: 0px none; }
+body { margin: 0px; font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 16px; line-height: 23px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); }
+a { color: rgb(0, 136, 204); text-decoration: none; }
+a:hover, a:focus { color: rgb(0, 85, 128); text-decoration: underline; }
+.row { margin-left: -20px; }
+.row:before, .row:after { display: table; line-height: 0; content: ""; }
+.row:after { clear: both; }
+[class*="span"] { float: left; min-height: 1px; margin-left: 20px; }
+.container { width: 760px; margin-right: auto; margin-left: auto; display: block; }
+p { margin: 0px 0px 10px; display: block}
+small { font-size: 85%; }
+h1, h2, h3, h4, h5, h6 { margin: 7px 0px; font-family: inherit; font-weight: bold; line-height: 23px; color: inherit; text-rendering: optimizelegibility; }
+h1, h2, h3 { line-height: 30px; }
+h1 { font-size: 32px; }
+h2 { font-size: 24px; }
+h3 { font-size: 18px; }
+ul, ol { padding: 0px; margin: 0px 0px 10px 25px; }
+ul ul, ul ol, ol ol, ol ul { margin-bottom: 0px; }
+li { line-height: 23px; }
+b {  font-weight: bold}
+
+tr.spacer td {padding-top: 10px;}
+
+.post-date { font-size: 0.8em; color: rgb(112, 112, 112); text-align: right; margin-top: 20px;}
+
+@media screen and (max-width: 900px) {
+      .container { width: 700px; margin-right: auto; margin-left: 10px; display: block; }
+}
+
+@media (max-width: 1000px) and (min-width: 901px)  {
+      .container { width: 860px; margin-right: auto; margin-left: 50px; display: block; }
+}
+
+@media (max-width: 1200px) and (min-width: 1001px)  {
+      .container { width: 860px; margin-right: auto; margin-left: 150px; display: block; }
+}
+
+@media (max-width: 1441px) and (min-width: 1201px)  {
+      .container { width: 860px; margin-right: auto; margin-left: 250px; display: block; }
+} 
+
+@media screen and (min-width: 1442px)  {
+      .container { width: 860px; margin-right: auto; margin-left: 370px; display: block; }
+} 
+
+#gg-header {	
+	position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 140px;	
+	margin: 0; 
+	padding: 0;
+    background: -webkit-linear-gradient(#94A7E3, white); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#94A7E3, white); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#94A7E3, white); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#94A7E3, white); /* Standard syntax (must be last) */
+}
+
+#uc-site-header { padding-bottom: 15px; padding-top: 30px;  }
+#uc-site-parent, #uc-site-title { margin: 0px; font-weight: normal; }
+
+#gg-content {
+	position: relative;
+    top: 0;
+    left: 0;
+    right: 0;  
+    bottom: 50px;	    
+	margin-top: 20px; 	
+	padding: 0;	
+}
+
+#gg-footer {
+	position: relative;
+	top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 30px;
+}
+
+
+#nav {
+    list-style:none;
+    font-weight:bold;
+    margin-bottom:30px;   
+    margin-left: 0px;	
+}
+
+#nav li{
+    float:left;
+    margin-right:55px;
+		font-size: 20px;
+    position:relative;
+}
+
+#nav a{
+    display:block;
+}
+#nav a:hover{
+    color:#fff;    
+    text-decoration:underline;
+}
+
+#nav ul{
+    background:#fff;     
+    list-style:none;
+    position:absolute;
+    left:-9999px; 
+}
+
+#nav ul li{
+    padding:1px; 
+    float:none;
+}
+#nav ul a{
+    white-space:nowrap; 
+}
+
+#nav li:hover ul{ 
+    left:0; 
+}
+#nav li:hover a{ 
+    color: rgb(51, 51, 51); 	
+    text-decoration:underline;
+}
+#nav li:hover ul a{ 
+    text-decoration:none;
+}
+#nav li:hover ul li a:hover{    
+	color: rgb(51, 51, 51); 
+	background-color: #94A7E3;
+}
+
+/*
+* papers page styles
+*/
+
+table.papers {
+  border: 0px;
+	border-spacing: 2px;
+	width: 860px;
+}
+
+table.papers tr {
+    background: -webkit-linear-gradient(#EAEDF9, white); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#EAEDF9, white); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#EAEDF9, white); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#DFE5F8, white); /* Standard syntax (must be last) */
+  padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+table.papers td:last-child {
+    width: 100%
+}
